@@ -1,4 +1,4 @@
 # MastersStudentSimu
 
 ## 使い方
-Processingで`MaatersStudentSimu`を実行してください．
+Processingで`MastersStudentSimu.pde`を実行してください．
